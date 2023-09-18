@@ -13,6 +13,7 @@
   <ul>
       <li><a style="font-family: Segoe UI; font-size: 17px" href="https://spring.io/projects/spring-framework">Spring</a></li>
       <li><a style="font-family: Segoe UI; font-size: 17px" href="https://www.postgresql.org/">PostgreSQL</a></li>
+      <li><a style="font-family: Segoe UI; font-size: 17px" href="https://jwt.io/">JWT Token</a></li>
   </ul>
 
 <h2 id="project"> 🖥 Projeto </h2>
@@ -29,8 +30,8 @@
 
 <h2 id="contribuicao"> 🔧 O que foi produzido </h2>
 
-  - [x] Gerenciamento de rotas
   - [x] Back End
+  - [x] Gerenciamento de rotas
   - [x] Cadastro de paciente e médico
   - [x] Atualização dos dados
   - [x] Tornar inativo paciente e médico
